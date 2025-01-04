@@ -18,7 +18,6 @@ import Canvas from "./components/canvas.js";
 function App() {
   return (
     <div className="App">
-      <h1 style={{ textAlign: "center" }}>Real-Time Drag-and-Drop Shapes</h1>
       <Canvas />
     </div>
   );

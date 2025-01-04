@@ -124,7 +124,7 @@ const Canvas = () => {
   return (
     <canvas
       ref={canvasRef}
-      style={{ border: "2px solid black" }}
+      style={{ border: "5px solid black" }}
       onMouseDown={handleMouseDown}
       onMouseMove={handleMouseMove}
       onMouseUp={handleMouseUp}
